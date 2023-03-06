@@ -1,0 +1,1 @@
+Building{height=12.3, numberOfStoreys=3, numberOfFlats=2, entrances=2}
